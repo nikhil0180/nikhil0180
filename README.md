@@ -2,55 +2,54 @@
 
 **GIS Analyst · Cartographer · Remote Sensing · Spatial Data Science**
 
-Based in New York. GIS and cartography graduate student building a portfolio focused on
-applied spatial analysis, reproducible geospatial workflows, and clear map communication.
+Based in New York. GIS and cartography graduate student. I work on spatial analysis,
+mapping, and geospatial workflows in Python and R.
 
 ![Focus](https://img.shields.io/badge/Focus-GIS%20%7C%20Remote%20Sensing%20%7C%20GeoAI-2b6cb0)
 ![Tools](https://img.shields.io/badge/Tools-ArcGIS%20Pro%20%7C%20QGIS%20%7C%20Python%20%7C%20R-2f855a)
 
 ---
 
-## Professional summary
+## About me
 
-I work at the intersection of geographic information systems, cartography, and data science.
-My strengths are turning spatial questions into reproducible analyses and communicating the
-results through clean maps and documentation. I combine desktop GIS (ArcGIS Pro, QGIS) with
-programming (Python, R, SQL, ArcPy) and web mapping (Leaflet.js), and I have applied these
-skills across urban planning, accessibility, environmental, and remote sensing problems.
+I am a GIS and cartography graduate student who works with spatial data and maps. I use desktop
+GIS (ArcGIS Pro, QGIS) along with programming (Python, R, SQL, ArcPy) and web mapping
+(Leaflet.js). So far I have worked on projects in urban planning, park accessibility,
+environmental analysis, and remote sensing.
 
-I am currently preparing for roles in GIS analysis, cartography, remote sensing, and spatial
-data science, and I am actively curating my project work for review.
+I am looking for roles in GIS analysis, cartography, remote sensing, and spatial data science,
+and I am putting together my project work so it is ready to review.
 
 ---
 
 ## What I work on
 
 - **Spatial analysis** — accessibility, suitability, network analysis, and spatial statistics.
-- **Cartography** — thematic mapping and map design for technical and general audiences.
+- **Cartography** — thematic mapping and map design.
 - **Remote sensing** — land-cover and environmental analysis from imagery and raster data.
-- **GeoAI & spatial data science** — programming-driven geospatial workflows in Python and R.
-- **Web mapping** — interactive, public-facing maps with Leaflet.js and GeoJSON.
-- **Urban & environmental planning** — green infrastructure, sustainability, and infrastructure mapping.
+- **Spatial data science** — geospatial workflows in Python and R.
+- **Web mapping** — interactive maps with Leaflet.js and GeoJSON.
+- **Urban & environmental planning** — green infrastructure and infrastructure mapping.
 
 ---
 
 ## Featured portfolio projects
 
-My curated project work lives in my portfolio project repository, currently under active
-curation. Some materials may be private or in progress until publication.
+I keep my project work in a separate portfolio repository that I am still organizing and
+documenting. Some of it is private or in progress for now.
 
 **Portfolio repository:** https://github.com/nikhil0180/projects
-*(Private while being curated — can be made public when ready for review.)*
+*(Private while I finish organizing it — I can make it public when it is ready to review.)*
 
-Representative projects included or in progress:
+Some of the projects there:
 
-- **GeoAI — Albany Urban Green Spaces** — Python/Quarto spatial analysis integrating census
-  demographics and land-cover data to characterize urban green space.
-- **Bronx Green Space Accessibility** — ArcGIS Pro / ArcPy analysis modeling walkable park
-  access and identifying underserved census tracts (GIS for social science).
-- **Albany Rural Cemetery Web Map** — React + Leaflet interactive mapping application with
-  search, themed tours, clustering, and pedestrian routing.
-- **Infrastructure mapping for 25 Town Panchayats / DPRs** — applied GIS for planning and
+- **GeoAI — Albany Urban Green Spaces** — Python/Quarto spatial analysis combining census
+  demographics and land-cover data to look at urban green space.
+- **Bronx Green Space Accessibility** — ArcGIS Pro / ArcPy analysis of walkable park access
+  that flags underserved census tracts (GIS for social science).
+- **Albany Rural Cemetery Web Map** — a React + Leaflet interactive map I contributed to, with
+  search, themed tours, clustering, and walking directions.
+- **Infrastructure mapping for 25 Town Panchayats / DPRs** — GIS work for planning and
   detailed project reports.
 - **ENVI-met environmental modeling** — microclimate and environmental simulation work.
 - **Urban planning & network analysis** — accessibility and green-infrastructure studies.
@@ -77,27 +76,27 @@ GitHub, Google Suite, Canva
 
 ---
 
-## What this profile demonstrates
+## What my projects show
 
-For recruiters and interviewers, my work is meant to show that I can:
+A quick idea of what you will find in my work:
 
-- Frame a spatial question and carry it through to analysis and a communicated result.
-- Move across the geospatial stack — desktop GIS, scripting/automation, and web mapping.
-- Produce **reproducible** workflows using notebooks, scripts, and documentation.
-- Apply GIS to real domains: urban planning, accessibility, and environmental sustainability.
+- Taking a spatial question from data through analysis to a map or result.
+- Working across desktop GIS, scripting with Python/ArcPy, and web mapping.
+- Documenting the steps in notebooks, scripts, and READMEs so the work can be followed.
+- Applying GIS to real topics: urban planning, park accessibility, and the environment.
 
-**How to read my work:** each project emphasizes code, workflow, notebooks, and documentation.
-Larger GIS datasets (geodatabases, shapefiles, rasters) are often excluded due to size and
-licensing; where helpful, small sample data is included so the methods remain clear and the
-work is reviewable without the full datasets.
+**How to read my work:** each project focuses on the code, the workflow, the notebooks, and the
+documentation. I usually leave large GIS datasets (geodatabases, shapefiles, rasters) out because
+of their size and licensing, and include small sample data where it helps so the steps are still
+clear without the full datasets.
 
 ---
 
 ## Current focus
 
-- Curating and documenting portfolio projects for upcoming interviews.
-- Strengthening reproducible, programming-driven geospatial workflows in Python and R.
-- Deepening GeoAI and remote sensing applications for urban and environmental analysis.
+- Organizing and documenting my portfolio projects for upcoming interviews.
+- Practicing geospatial workflows in Python and R.
+- Learning more about GeoAI and remote sensing for urban and environmental work.
 
 ---
 
