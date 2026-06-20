@@ -107,15 +107,14 @@ I am open to GIS, cartography, remote sensing, and spatial data science opportun
 collaboration.
 
 - **GitHub:** https://github.com/nikhil0180
-- **LinkedIn:** TODO — add your LinkedIn profile URL
-- **Email:** TODO — add a public contact email
-- **Portfolio / website:** TODO — add if available
+- **LinkedIn:** https://www.linkedin.com/in/nikhilb0180/
+- **Email:** nikhilbandla.18@gmail.com
 
 <!--
 Maintainer notes (safe to delete):
 - This README belongs in a public repository named `nikhil0180` (same as your username)
   so it renders on your GitHub profile.
-- Replace the TODO contact lines with real links, or remove any you don't want public.
+- Contact links were updated with LinkedIn and public email.
 - Make https://github.com/nikhil0180/projects public when ready, then update the wording
   above that currently says it is private/under curation.
 -->
