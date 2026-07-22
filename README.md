@@ -12,8 +12,8 @@ mapping, and geospatial workflows in Python and R.
 
 ## About me
 
-I am a GIS and cartography graduate student who works with spatial data and maps. I use desktop
-GIS (ArcGIS Pro, QGIS) along with programming (Python, R, SQL, ArcPy) and web mapping
+I am a GIS and cartography graduate student who works with spatial data and maps. I use ArcGIS Desktop,
+ArcGIS Pro, QGIS, along with programming (Python, R, SQL, ArcPy) and web mapping
 (Leaflet.js). So far I have worked on projects in urban planning, park accessibility,
 environmental analysis, and remote sensing.
 
